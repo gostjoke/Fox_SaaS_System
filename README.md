@@ -1,4 +1,5 @@
 # Fox_SaaS_System
+Hi, This System I built by myself, and still developing.
 
 <div>System Info: </div>
 <div> Backend: Django DRF </div>
@@ -20,3 +21,25 @@
     "vuex": "^4.1.0"
   },
 </div>
+<hr>
+<h1> Login Page </h1>
+<img height="auto" src="https://github.com/gostjoke/Fox_SaaS_System/blob/main/picture/login.png?raw=true">
+<hr>
+<h1> Dashboard One </h1>
+<img height="auto" src="https://github.com/gostjoke/Fox_SaaS_System/blob/main/picture/Dashboard.png?raw=true">
+<hr>
+<h1> Dashboard layout change </h1>
+<img height="auto" src="https://github.com/gostjoke/Fox_SaaS_System/blob/main/picture/Dashboard2.png?raw=true">
+<hr>
+<h1> JWT Token </h1>
+<img height="auto" src="https://github.com/gostjoke/Fox_SaaS_System/blob/main/picture/JWT_token.png">
+<hr>
+<h1> Framework </h1>
+<img height="auto" src="https://github.com/gostjoke/Fox_SaaS_System/blob/main/picture/Framework.png?raw=true">
+<hr>
+
+
+
+
+
+
