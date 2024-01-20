@@ -16,6 +16,7 @@ sqlparse==0.4.4;
 typing_extensions==4.8.0;
 tzdata==2023.3;
 </div>
+<hr>
 <div>
   "dependencies": {
     "axios": "^1.6.1",
