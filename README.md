@@ -5,16 +5,17 @@ Hi, This System I built by myself, and still developing.
 <div> Backend: Django DRF </div>
 <div> Frontend: Vue3 </div>
 <div> django requirements: 
-asgiref==3.7.2;
-Django==4.1.3;
-django-cors-headers==4.3.0;
-djangorestframework==3.14.0;
-djangorestframework-simplejwt==5.3.0;
-PyJWT==2.8.0;
-pytz==2023.3.post1;
-sqlparse==0.4.4;
-typing_extensions==4.8.0;
-tzdata==2023.3;
+<div>Python 3.10.5;</div>
+<div>asgiref==3.7.2;</div>
+<div>Django==4.1.3;</div>
+<div>django-cors-headers==4.3.0;</div>
+<div>djangorestframework==3.14.0;</div>
+<div>djangorestframework-simplejwt==5.3.0;</div>
+<div>PyJWT==2.8.0;</div>
+<div>pytz==2023.3.post1;</div>
+<div>sqlparse==0.4.4;</div>
+<div>typing_extensions==4.8.0;</div>
+<div>tzdata==2023.3;</div>
 </div>
 <hr>
 <div>
